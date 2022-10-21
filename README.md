@@ -1,4 +1,3 @@
-# 깃헙 연습용 레포지토리
+### Todo 만들기 연습용 레포지토리
 
-project칸반
-git flow branch 및 각종 프레임워크 설치 연습
+CRUD 기능을 포함한 간단한 Todo앱 만들어보기
